@@ -12,7 +12,7 @@ import chalk from "chalk";
 const app = express();
 app.use(
   cors({
-    origin: ["http://localhost:5173", "http://localhost:5174"],
+    origin: ["https://smart-virtual-assistant-frontend07.onrender.com"],
     credentials: true,
   })
 );
