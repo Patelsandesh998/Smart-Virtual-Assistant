@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Smart Voice Assistant Powered by React and Gemini AI
-=======
+
 # Project Title :🧠 Voice Assistant with Gemini AI
 
 A smart, voice-controlled assistant built using **React**, **Google Gemini API**, and the **Web Speech API**. This assistant listens to voice commands, speaks responses, and can perform actions like opening apps or searching platforms such as Google, YouTube, Instagram, and more.
